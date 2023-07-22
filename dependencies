@@ -1,0 +1,9 @@
+Dependencies for the Script:
+1. tkinter (for GUI)
+2. scapy (for packet manipulation)
+3. nmap (for network scanning)
+
+To install the dependencies, use the following commands:
+1. tkinter: No installation needed. It is included with Python by default.
+2. scapy: pip install scapy
+3. nmap: pip install python-nmap
